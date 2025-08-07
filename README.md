@@ -13,9 +13,7 @@ Dibangun di atas fondasi Laravel yang kokoh, proyek ini menawarkan pengalaman pe
 
 ### 🖌️ Desain Grafis
 
-- Editor grafis berbasis kanvas
-- Toolbox lengkap untuk manipulasi gambar
-- Ekspor dalam berbagai format (PNG, JPG, SVG)
+- Bisa Upload karya Desain - Desain dengan batas max. 10mb
 
 ### 🛠️ Teknologi Modern
 
